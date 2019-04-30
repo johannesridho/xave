@@ -1,5 +1,5 @@
 # Xave
-Xave make cities save by detecting suspicious activities (vehicle and fire accidents, road conflicts like people fighting) using CCTVs and send FB Message to city leaders or police
+Xave makes cities save by detecting suspicious activities (vehicle and fire accidents, road conflicts like people fighting) using CCTVs and send FB Message to city leaders or police
 
 ## Links
 https://www.facebook.com/Xave-2595813077099497
@@ -21,15 +21,6 @@ When this product installed in CCTVs, city leaders and police can address city i
 
 ## Diversity and inclusion
 Crime rate faced people with disability is 2.5 times more than the others. Up to 90% of women with disability have been sexually assaulted. Xave helps the assaulted people with disability by notifying the police faster, which means polices can find and help them faster. This is very significant especially for visually impaired people, which are often don't know who assaulted them. 
-
-## Challenges I ran into
-Several configuration things
-
-## Accomplishments that I'm proud of
-Proud to finally finish this great project
-
-## What I learned
-Several configurations problems and its solutions 
 
 ## What's next for Xave
 Add more features, there are so much information we can get from cities CCTVs 
